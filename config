@@ -1,0 +1,7 @@
+# Host自己填一个名字 不要带中文就好
+Host nodeing666
+# 网站地址
+HostName e.coding.net
+User git
+# 对应私有地址
+IdentityFile C:\Users\Lenovo\.ssh\id_rsa

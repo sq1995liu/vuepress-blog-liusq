@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d27b93e0-73bb-45d8-a5c1-b04c8bf65a92" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1oDxM7rccnVKALeUGXgKY4wNblU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../aaa/opwf-front" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\mydoc\vuepress-blog-xiaonq\docs\00.目录页" />
+      <recent name="C:\mydoc\vuepress-blog-xiaonq\docs\01.python\01.python基础\assets" />
+      <recent name="C:\mydoc\vuepress-blog-xiaonq\docs\02.页面\10.HTML\assets" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d27b93e0-73bb-45d8-a5c1-b04c8bf65a92" name="默认的" comment="" />
+      <created>1612834912333</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612834912333</updated>
+      <workItem from="1612834913915" duration="946000" />
+      <workItem from="1612836265862" duration="12375000" />
+      <workItem from="1612856039487" duration="709000" />
+      <workItem from="1612856826803" duration="14959000" />
+      <workItem from="1612964570652" duration="623000" />
+      <workItem from="1613032609035" duration="350000" />
+      <workItem from="1613033054684" duration="24494000" />
+      <workItem from="1613122395947" duration="1600000" />
+      <workItem from="1613126522396" duration="11669000" />
+      <workItem from="1613204125688" duration="6580000" />
+      <workItem from="1613217014778" duration="10500000" />
+      <workItem from="1613463185338" duration="2960000" />
+      <workItem from="1613481555371" duration="18150000" />
+      <workItem from="1613660005932" duration="27170000" />
+      <workItem from="1614125903513" duration="4580000" />
+      <workItem from="1614165689565" duration="13203000" />
+      <workItem from="1615183950437" duration="641000" />
+      <workItem from="1615281633596" duration="3893000" />
+      <workItem from="1615346527858" duration="2861000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" width="1089" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612834931029">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" width="1089" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1612834931029" />
+    <state x="608" y="212" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1612863704919">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="608" y="212" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1612863704919" />
+    <state x="1098" y="203" key="FileChooserDialogImpl" timestamp="1613911436374">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="1098" y="203" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1613911436374" />
+    <state width="1515" height="200" key="GridCell.Tab.0.bottom" timestamp="1615358807717">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="200" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1615358807717" />
+    <state width="1515" height="200" key="GridCell.Tab.0.center" timestamp="1615358807717">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="200" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1615358807717" />
+    <state width="1515" height="200" key="GridCell.Tab.0.left" timestamp="1615358807717">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="200" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1615358807717" />
+    <state width="1515" height="200" key="GridCell.Tab.0.right" timestamp="1615358807717">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="200" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1615358807717" />
+    <state x="107" y="8" key="SettingsEditor" timestamp="1614070934973">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="107" y="8" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1614070934973" />
+    <state x="275" y="258" width="603" height="536" key="find.popup" timestamp="1613033214644">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="275" y="258" width="603" height="536" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1613033214644" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1614075636594">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1614075636594" />
+  </component>
+</project>
